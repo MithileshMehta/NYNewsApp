@@ -1,7 +1,4 @@
-# NewsAPP
-
-# SampleAPP
-
+# SampleNewsAPP 
 
 # SampleNewsApp
 This is a sample app build using Apache Cordova .
